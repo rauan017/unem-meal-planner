@@ -18,26 +18,26 @@ To develop an intelligent platform that generates personalized meal plans and re
 
 ## Target Users
 
-* Families that want to reduce food waste and grocery expenses
-* Students and young professionals with limited time and budget
-* Individuals with specific dietary preferences or restrictions
+- Families that want to reduce food waste and grocery expenses
+- Students and young professionals with limited time and budget
+- Individuals with specific dietary preferences or restrictions
 
 ## Planned Features
 
 The following features are planned for development:
 
-* User registration and authentication
-* User profile management
-* Management of available products (pantry / inventory)
-* Management of dietary preferences and restrictions
-* Family budget tracking
-* Generation of personalized meal plans
-* Recipe generation and viewing
-* Responsive interface (web and mobile)
+- User registration and authentication
+- User profile management
+- Management of available products (pantry / inventory)
+- Management of dietary preferences and restrictions
+- Family budget tracking
+- Generation of personalized meal plans
+- Recipe generation and viewing
+- Responsive interface (web and mobile)
 
 ## Repository Structure
 
-```
+```text
 unem-meal-planner/
 ├── docs/
 │   ├── architecture-diagrams.md
@@ -54,14 +54,14 @@ unem-meal-planner/
 
 ## Project Documentation
 
-* [Project Proposal](docs/project-proposal.md)
-* [Literature Review](docs/literature-review.md)
-* [Existing Systems Comparison](docs/existing-systems-comparison.md)
-* [Technology Comparison](docs/technology-comparison.md)
-* [Requirements Specification](docs/requirements-specification.md)
-* [Architecture Diagrams](docs/architecture-diagrams.md)
-* [Initial Database of Recipes and Products](docs/initial-database.md)
-* [Recipe Generation Module Design](docs/recipe-generation-module-design.md)
+- [Project Proposal](docs/project-proposal.md)
+- [Literature Review](docs/literature-review.md)
+- [Existing Systems Comparison](docs/existing-systems-comparison.md)
+- [Technology Comparison](docs/technology-comparison.md)
+- [Requirements Specification](docs/requirements-specification.md)
+- [Architecture Diagrams](docs/architecture-diagrams.md)
+- [Initial Database of Recipes and Products](docs/initial-database.md)
+- [Recipe Generation Module Design](docs/recipe-generation-module-design.md)
 
 Additional documentation will be added as the project progresses.
 
@@ -72,7 +72,7 @@ Additional documentation will be added as the project progresses.
 ## Team Members
 
 | Name | Role |
-|------|------|
+|---|---|
 | Әли Рауан Мақсатұлы | Team Lead — Architecture, server-side, integration, coordination |
 | Мұхтарұлы Нұрасыл | Recipe generation and meal planning module |
 | Хавал Мирас Болатханулы | User interface, database population, testing |
